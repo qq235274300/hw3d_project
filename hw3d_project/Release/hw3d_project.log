@@ -1,0 +1,4 @@
+﻿  compilation object save succeeded; see F:\HW-3D\hw3d_project\hw3d_project\PixelShader.cso
+F:\HW-3D\hw3d_project\hw3d_project\VertexShader.hlsl(1,36-48): error X4502: invalid ps_4_0_level_9_3 output semantic 'SV_Position'
+  
+  compilation failed; no code produced
